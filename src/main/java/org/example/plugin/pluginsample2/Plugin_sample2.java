@@ -31,6 +31,7 @@ public final class Plugin_sample2 extends JavaPlugin implements Listener {
 
   private Integer count = 0;
 
+  private int count2;
   // commitとpush用の変更
 
     @Override
