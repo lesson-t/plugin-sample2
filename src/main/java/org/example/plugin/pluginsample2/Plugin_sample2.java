@@ -31,6 +31,8 @@ public final class Plugin_sample2 extends JavaPlugin implements Listener {
 
   private Integer count = 0;
 
+  // commitとpush用の変更
+
     @Override
   public void onEnable() {
     Bukkit.getPluginManager().registerEvents(this, this);
